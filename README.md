@@ -26,7 +26,7 @@ A Flutter meal reminder & food diary app with glassmorphism UI.
 ### Run
 
 ```bash
-cd nourish_diary
+cd Eat_Your_Meal
 flutter pub get
 flutter run
 ```
