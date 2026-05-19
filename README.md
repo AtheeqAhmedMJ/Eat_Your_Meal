@@ -1,6 +1,6 @@
-# 🌿 Eat Your Meal
+🌿 Eat Your Meal
 
-A beautiful Flutter meal reminder & food diary app with glassmorphism UI.
+A Flutter meal reminder & food diary app with glassmorphism UI.
 
 ---
 
